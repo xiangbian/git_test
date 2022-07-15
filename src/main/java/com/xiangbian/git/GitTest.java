@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Git test3~");
         System.out.println("Git test3~ -hot fix");
         System.out.println("Git test5~ -master");
+        System.out.println("Git test5~ -master");
     }
 }
